@@ -2,16 +2,16 @@
 
 1. cd into an empty directory
 2. `npm init -y` - it will create a package.json
-3. `npm install react react-dom next` -  it will install the boiler plate packages we need (check the node_modules)
+3. `npm install react react-dom next` - it will install the boiler plate packages we need (check the node_modules)
 4. head to the [package.json](./package.json) and add the following scripts, we will need them:
 
-     ```js
+   ```js
    "scripts": {
-    "dev": "next",
-    "build":"next build",
-    "start": "next start"
+   "dev": "next",
+   "build":"next build",
+   "start": "next start"
    }
-    ```
+   ```
 
 add this in our package.json
 
