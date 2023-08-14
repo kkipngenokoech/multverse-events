@@ -5,7 +5,7 @@ export default function Index() {
   const profile = data[0];
   return (
     <div className="container speaker-list">
-      <SpeakerCard profile={profile} />
+      <S peakerCard profile={profile} />
     </div>
   );
 }
