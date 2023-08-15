@@ -10,7 +10,7 @@ export const data = [
     sessions: [
       {
         id: "32",
-        title: "Rails powered by GlassFish",
+        title: "How to become spiderman 101",
         eventYear: "2008",
         room: {
           name: "Cornell Hall",
@@ -257,12 +257,12 @@ export const data = [
     ],
   },
   {
-    id: "8590",
-    first: "Chris",
-    last: "Richardson",
-    company: "Eventuate, Inc",
-    bio: "Founder of Eventuate, Author of POJOs in Action, creator of the original Cloud Foundry",
-    twitterHandle: "crichardson",
+    id: "1002",
+    first: "Super",
+    last: "Man",
+    company: "Dc Comics",
+    bio: "Superman is a superhero who appears in American comic books published by DC Comics",
+    twitterHandle: "Superman",
     favorite: false,
     sessions: [
       {
