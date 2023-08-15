@@ -1,4 +1,4 @@
-export const data = [
+export const SpeakerData = [
   {
     id: "1001",
     first: "Spider",
