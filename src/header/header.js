@@ -5,9 +5,8 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
-
-export default function ButtonAppBar() {
+// import logoImage from "/images/multiverseevents-logo.png"
+export default function ButtonAppBar({logo}) {
   return (
     <Box
       sx={{
@@ -28,7 +27,7 @@ export default function ButtonAppBar() {
             aria-label="menu"
             sx={{ mr: 2 }}
           >
-            <MenuIcon />
+            <img src={logo} alt="Menu" />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             News
