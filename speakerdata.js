@@ -380,18 +380,18 @@ export const data = [
     ],
   },
   {
-    id: "5443",
-    first: "Mark",
-    last: "Abramson",
-    company: "Printform Corporation",
-    bio: "Mark is a globally recognized expert on digital printing for industrial and packaging applications.",
-    twitterHandle: "mark__a",
+    id: "1003",
+    first: "The Incredible",
+    last: "Hulk",
+    company: "Marvel",
+    bio: "The Hulk is a superhero appearing in American comic books published by Marvel Comics",
+    twitterHandle: "Hulk",
     favorite: true,
     sessions: [
       {
         id: "676",
         title:
-          "Accelerate your database development with Object-Relational Mapping (OR/M) in .NET",
+          "How to become like hulk 101",
         eventYear: "2011",
         room: {
           name: "8401",
@@ -486,12 +486,12 @@ export const data = [
     ],
   },
   {
-    id: "1124",
-    first: "Douglas",
-    last: "Crockford",
-    company: "PayPal",
-    bio: "Douglas Crockford discovered the JSON Data Interchange Format. He is also the author of _JavaScript: The Good Parts_. He has been called a guru, but he is actually more of a mahatma.",
-    twitterHandle: "notatweeter",
+    id: "1004",
+    first: "Bat",
+    last: "Man",
+    company: "Dc comics",
+    bio: "Batman is a superhero appearing in American comic books published by DC Comics.",
+    twitterHandle: "batman",
     favorite: true,
     sessions: [
       {
@@ -749,12 +749,12 @@ export const data = [
     ],
   },
   {
-    id: "10801",
-    first: "Troy",
-    last: "Miles",
-    company: "Kelley Blue Book",
-    bio: "An award winning developer and author.",
-    twitterHandle: "therockncoder",
+    id: "1005",
+    first: "Captain",
+    last: "America",
+    company: "Marvel",
+    bio: "Captain America is a superhero who appears in American comic books published by Marvel Comics",
+    twitterHandle: "captainamerica",
     favorite: false,
     sessions: [
       {
@@ -814,17 +814,17 @@ export const data = [
     ],
   },
   {
-    id: "47343",
-    first: "Eve",
-    last: "Porcello",
-    company: "Moon Highway",
-    bio: "Eve Porcello is an instructor at Moon Highway, egghead.io, and LinkedIn Learning.",
-    twitterHandle: "eveporcello",
+    id: "1006",
+    first: "Wonder",
+    last: "Woman",
+    company: "Dc Comics",
+    bio: "Wonder Woman is a superhero who appears in American comic books published by DC Comics",
+    twitterHandle: "wonderwoman",
     favorite: true,
     sessions: [
       {
         id: "7548",
-        title: "React Is Your Friend: A Gentle Intro to the React Library",
+        title: "How to be like wonder woman 101",
         eventYear: "2019",
         room: {
           name: "Town Square B",
@@ -834,17 +834,17 @@ export const data = [
     ],
   },
   {
-    id: "14918",
-    first: "Claudia",
-    last: "Galvan",
-    company: "Early Stage Innovation",
-    bio: "Claudia is a leading expert on product internationalization",
-    twitterHandle: "cgalvan",
+    id: "1007",
+    first: "Kowalski",
+    last: "",
+    company: "Dream works",
+    bio: "a major character in the animated film Madagascar and a major protagonist in The Penguins of Madagascar",
+    twitterHandle: "kowalski",
     favorite: false,
     sessions: [
       {
         id: "4820",
-        title: "Innovation for Women Engineers",
+        title: "How to be smart like me 101",
         eventYear: "2015",
         room: {
           name: "RE-311",
@@ -881,17 +881,17 @@ export const data = [
     ],
   },
   {
-    id: "46769",
-    first: "Mary",
-    last: "Grygleski",
-    company: "IBM",
-    bio: "Mary is a passionate developer advocate by day, and a very active tech community organizer by night.",
-    twitterHandle: "mgrygles",
+    id: "1008",
+    first: "Rico",
+    last: "",
+    company: "Dream Works",
+    bio: "He is the designated weapons and combat specialist of the Penguin Commandos and loves violence",
+    twitterHandle: "rico",
     favorite: true,
     sessions: [
       {
         id: "7549",
-        title: "A Gentle Intro to Reactive Java Programming and Systems",
+        title: "Violence 101",
         eventYear: "2019",
         room: {
           name: "Fireside A",
@@ -901,17 +901,17 @@ export const data = [
     ],
   },
   {
-    id: "8367",
-    first: "Gayle Laakmann",
-    last: "McDowell",
-    company: "CareerCup",
-    bio: "Gayle Laakmann McDowell is the founder and CEO of CareerCup.com and the author of three books.",
-    twitterHandle: "gayle",
+    id: "1009",
+    first: "Skipper",
+    last: "",
+    company: "DreamWorks",
+    bio: "Skipper is the commander of the squad, delivers incredibly funny one-liners, and is one of the craziest in the group",
+    twitterHandle: "skipper",
     favorite: false,
     sessions: [
       {
         id: "944",
-        title: "Cracking the Coding Interview",
+        title: "Leaders are born 101, so is everyone else",
         eventYear: "2012",
         room: {
           name: "SmithWick",
@@ -1031,12 +1031,12 @@ export const data = [
     ],
   },
   {
-    id: "620",
-    first: "Ron",
-    last: "Kleinman",
-    company: "De Anza College",
-    bio: "Ron teaches Object Oriented Analysis and Design at De Anza College ",
-    twitterHandle: "notweets",
+    id: "1000",
+    first: "private",
+    last: "",
+    company: "Dream Works",
+    bio: "He is the youngest member of the four Penguins and was presumably abandoned by his parents before he was born.",
+    twitterHandle: "private",
     favorite: false,
     sessions: [
       {

@@ -8,7 +8,7 @@ export default function Index() {
       {data ? (
         data.map((profile) => {
           return (
-            <Grid key={profile.id} item xs={12} sm={6} md={4} lg={3}>
+            <Grid key={profile.id} item xs={12} sm={6} md={4} lg={3} className="mx-auto">
               <SpeakerCard profile={profile} />
             </Grid>
           );
