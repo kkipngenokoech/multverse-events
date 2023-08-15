@@ -8,9 +8,8 @@ import Typography from "@mui/material/Typography";
 import SessionAccordion from "./accordion";
 
 export default function SpeakerCard({ profile }) {
-  const { id, first, last, company, favorite, twitterHandle, sessions, bio } = profile;
-  console.log("We are here")
-  console.log(id);
+  const { id, first, last, company, favorite, twitterHandle, sessions, bio } =
+    profile;
   return (
     <Card sx={{ maxWidth: 345 }}>
       <CardMedia

@@ -267,7 +267,7 @@ export const data = [
     sessions: [
       {
         id: "1011",
-        title: "Decomposing applications for scalability and deployability",
+        title: "How to become superman 101",
         eventYear: "2012",
         room: {
           name: "4306",
