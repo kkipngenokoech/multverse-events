@@ -1042,7 +1042,7 @@ export const data = [
       {
         id: "86",
         title:
-          "The Performance Limitations  of the Java Platform ... and how to avoid them",
+          "cheekiness 101",
         eventYear: "2008",
         room: {
           name: "Cornell Hall",
