@@ -1,6 +1,6 @@
 import { Grid } from "@mui/material";
-import { SpeakerData } from "../../speakerdata"
-import SpeakerCard from "./speaker"
+import { SpeakerData } from "../../speakerdata";
+import SpeakerCard from "./speaker";
 
 export default function Speakers() {
   return (
@@ -8,7 +8,15 @@ export default function Speakers() {
       {SpeakerData ? (
         SpeakerData.map((profile) => {
           return (
-            <Grid key={profile.id} item xs={12} sm={6} md={4} lg={3} className="mx-auto">
+            <Grid
+              key={profile.id}
+              item
+              xs={12}
+              sm={6}
+              md={4}
+              lg={3}
+              className="mx-auto"
+            >
               <SpeakerCard profile={profile} />
             </Grid>
           );

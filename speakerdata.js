@@ -390,8 +390,7 @@ export const SpeakerData = [
     sessions: [
       {
         id: "676",
-        title:
-          "How to become like hulk 101",
+        title: "How to become like hulk 101",
         eventYear: "2011",
         room: {
           name: "8401",
@@ -1041,8 +1040,7 @@ export const SpeakerData = [
     sessions: [
       {
         id: "86",
-        title:
-          "cheekiness 101",
+        title: "cheekiness 101",
         eventYear: "2008",
         room: {
           name: "Cornell Hall",
